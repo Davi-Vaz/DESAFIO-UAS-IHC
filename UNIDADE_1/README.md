@@ -2,11 +2,10 @@
 
 ## Identificação do Estudante
 
-- Nome: Mateus Onival Araujo de Moraes
-- Matrícula: 22402037
+- Nome: Davi Vaz Moraes
+- Matrícula: 22407051
 - Curso: Ciência da Computação
-- Polo: CEUB ASA NORTE
-- Data de Entrega: 14/06/2026
+- Data de Entrega: 23/06/2026
 
 ## Descrição Geral
 

@@ -1,5 +1,5 @@
-    //A: Classe Produto
-class Produto {
+    //A: Classe Item
+class Item {
     public nome: string;
     public descricao: string;
     public preco: number;
@@ -21,15 +21,15 @@ class Produto {
     }
 }
 
-//B: Classe Venda
-class Venda {
-    public listaProdutos: Produto[];
+//B: Classe Checkout
+class Checkout {
+    public listaProdutos: Item[];
 
-    constructor(listaProdutos: Produto[]) {
+    constructor(listaProdutos: Item[]) {
         this.listaProdutos = listaProdutos;
     }
 
-    public totalVenda(): number {
+    public calcularTotal(): number {
         let soma: number = 0;
         for (const item of this.listaProdutos) {
             soma += item.preco;
@@ -39,26 +39,26 @@ class Venda {
 }
 
 //C: Criando produtos e realizando a soma
-const notebook = new Produto(
-    "Notebook Ultrabook",
-    "Notebook leve com processador i5 e 8GB de RAM",
-    3200.00,
-    "Samsung",
-    "Informática"
+const ultrabook = new Item(
+    "Ultrabook Pro",
+    "Computador leve com SSD rápido e bateria duradoura",
+    3499.90,
+    "Acer",
+    "Notebooks"
 );
 
-const mouseGamer = new Produto(
-    "Mouse Gamer RGB",
-    "Mouse com 6400 DPI e iluminação RGB",
-    180.00,
-    "Logitech",
+const tecladoMecanico = new Item(
+    "Teclado Mecânico RGB",
+    "Teclado retroiluminado com switches táteis",
+    259.90,
+    "Redragon",
     "Periféricos"
 );
 
-const carrinho = new Venda([notebook, mouseGamer]);
-const total = carrinho.totalVenda();
+const pedido = new Checkout([ultrabook, tecladoMecanico]);
+const total = pedido.calcularTotal();
 
-console.log("Resumo do Carrinho");
-console.log(`${notebook.nome} - R$ ${notebook.preco.toFixed(2)}`);
-console.log(`${mouseGamer.nome} - R$ ${mouseGamer.preco.toFixed(2)}`);
+console.log("Resumo do Pedido");
+console.log(`${ultrabook.nome} - R$ ${ultrabook.preco.toFixed(2)}`);
+console.log(`${tecladoMecanico.nome} - R$ ${tecladoMecanico.preco.toFixed(2)}`);
 console.log(`Total: R$ ${total.toFixed(2)}`);
