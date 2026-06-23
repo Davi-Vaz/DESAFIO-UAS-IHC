@@ -45,11 +45,11 @@ Para uma melhor experiência, recomendamos o uso do **Visual Studio Code (VS Cod
 4. **Visualize o HTML:**  
    - Localize o arquivo `Desafio_UA1.html` na barra lateral esquerda.  
    - Clique com o botão direito sobre ele e selecione **"Open with Live Server"** (se você tiver essa extensão instalada) ou simplesmente localize o arquivo na pasta do seu computador e dê um clique duplo para abri-lo no seu navegador (Chrome, Edge ou Firefox).  
-5. **Leia o Relatório:** O arquivo `Desafio da UA 1.pdf` contém toda a explicação teórica e pode ser aberto com qualquer leitor de PDF ou diretamente no seu navegador.
+5. **Leia o Relatório:** O arquivo `Desafio_da_UA_1_Davi.pdf` contém toda a explicação teórica e pode ser aberto com qualquer leitor de PDF ou diretamente no seu navegador.
 
 ### Arquivos Entregues
 
-- `Desafio da UA 1.pdf`: Documento com a análise e justificativas das melhorias propostas.  
+- `Desafio_da_UA_1_Davi.pdf`: Documento com a análise e justificativas das melhorias propostas.  
 - `Desafio_UA1.html`: Protótipo em HTML da interface revisada.
 
 ---
@@ -64,6 +64,4 @@ Com esse trabalho, percebi o quanto pequenos ajustes — como a escolha de cores
 
 Declaro que este trabalho foi desenvolvido por mim, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
 
-**Nome do Estudante:** Mateus Onival Araujo de Moraes
 
-**Data:** 14/06/2026
