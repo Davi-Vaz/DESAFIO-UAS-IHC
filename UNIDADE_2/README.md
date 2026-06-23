@@ -33,11 +33,11 @@ Você precisará de um leitor de PDF instalado em seu computador (como Adobe Acr
 
 #### 2. Passo a Passo
 1.  **Localize o arquivo:** Vá até a pasta `UNIDADE_2` no seu computador.
-2.  **Abra o documento:** Dê um clique duplo no arquivo `Desafio da UA 2.pdf`.
+2.  **Abra o documento:** Dê um clique duplo no arquivo `Desafio_da_UA_2_Davi.pdf`.
 3.  **Navegação:** O documento está organizado para responder às questões (a) e (b) do desafio, detalhando a escolha da interface e os equipamentos necessários para garantir a acessibilidade total.
 
 ### Arquivos Entregues
-- `Desafio da UA 2.pdf`: Documento detalhando as diretrizes de acessibilidade e a proposta de interação.
+- `Desafio_da_UA_2_Davi.pdf`: Documento detalhando as diretrizes de acessibilidade e a proposta de interação.
 
 ---
 
@@ -47,10 +47,4 @@ Com esse desafio, entendi que acessibilidade digital não é um detalhe, é uma 
 
 ---
 
-## Declaração de Autoria
 
-Declaro que este trabalho foi desenvolvido por mim, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
-
-**Nome do Estudante:** Mateus Onival Araujo de Moraes
-
-**Data:** 14/06/2026
