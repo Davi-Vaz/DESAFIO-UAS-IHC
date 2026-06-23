@@ -250,4 +250,7 @@ Cada atividade contribuiu para o desenvolvimento de habilidades essenciais em de
 
 Declaro que este trabalho foi desenvolvido por mim, **Davi Vaz Moraes**, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição Centro Universitário de Brasília (CEUB).
 
-Todos os materiais apresentados neste repositório são resultado do meu trabalho individual e/ou colaborativo, conforme indicado em cada atividade.
+Todos os materiais apresentados neste repositório são resultado do meu trabalho individual e/ou colaborativo, conforme indicado em cada atividade.  
+
+**Nome do Estudante:** Davi Vaz Moraes
+**Data:** 23/06/2026
