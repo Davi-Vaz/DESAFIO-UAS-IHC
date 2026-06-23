@@ -29,10 +29,6 @@ A solução desenvolvida focou na reprogramação da interface de uma janela de 
 - **Controles de Navegação:** Adição de um botão "X" para fechar a janela e inversão da ordem dos botões ("Confirmar" à direita, "Cancelar" à esquerda) para seguir padrões de usabilidade.  
 - **Legibilidade:** Melhoria da fonte para otimizar a visualização geral da interface.
 
-**Print da Solução Implementada:**
-
-![Solução UA1](https://private-us-east-1.manuscdn.com/sessionFile/9f8HyZL2qV2YRvYRnzUoZ9/sandbox/bWwnOqPnAhFXj8M8fy5fB5-images_1781443840807_na1fn_L2hvbWUvdWJ1bnR1L1VBMV9pbWFnZS0wMDI.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvOWY4SHlaTDJxVjJZUnZZUm56VW9aOS9zYW5kYm94L2JXd25PcVBuQWhGWGo4TThmeTVmQjUtaW1hZ2VzXzE3ODE0NDM4NDA4MDdfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwxVkJNVjlwYldGblpTMHdNREkucG5nIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk4NzYxNjAwfX19XX0_&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=eoJQxtM0HM6M~YFCtOnWAqE8yKg11dwukJm0meeeu7gfBU7FKJvsmdbIC7yTmLoU1MFnoORmPOQCTk3Skmub7Hafm-8C4wAIUyViqOyeyRR4QNfWpZSlLU-HaGnMZPzeVCIOIJsACk0mtaWJr00NTs9rTbDmsm~DmHCSuNrFllscgOhf7b4Rs9uVjWKJdWNBvXVl6O2AvQh~TX5e0RsVfC5OxpDaUC2ei~XFSy-DXzdLXT~fObvbvw8kSWq2Q95ZBGBwmqU0WHiVDf0ktfqkfjXnhIXozT~koEvN4ZVEvsXmhmwc46vao0Q8kZq68gB88S6o4dgQ63ddeWJ3d8HxWw__)
-
 ### Como Executar e Visualizar a Solução
 
 Para visualizar a solução proposta nesta unidade, siga o passo a passo abaixo:
