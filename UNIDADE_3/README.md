@@ -35,11 +35,11 @@ Você precisará de um leitor de PDF para o relatório.
 
 #### 2. Passo a Passo
 1.  **Acesse a pasta:** Abra a pasta `UNIDADE_3` no seu computador.
-2.  **Abra o Relatório:** Dê um clique duplo no arquivo `Desafio da UA 3.pdf`.
+2.  **Abra o Relatório:** Dê um clique duplo no arquivo `Desafio_da_UA_3_Davi.pdf`.
 3.  **Análise do Design:** No PDF, você encontrará a descrição detalhada da persona (Ricardo), o storyboard que ilustra como ele usaria o aplicativo e as etapas de prototipação que foram planejadas.
 
 ### Arquivos Entregues
-- `Desafio da UA 3.pdf`: Relatório do processo de design, incluindo a definição da persona e a estratégia de prototipação.
+- `Desafio_da_UA_3_Davi.pdf`: Relatório do processo de design, incluindo a definição da persona e a estratégia de prototipação.
 
 ---
 
@@ -52,10 +52,5 @@ Pensar nesse aplicativo para o Ricardo me fez ver que o design não é só sobre
 
 ---
 
-## Declaração de Autoria
 
-Declaro que este trabalho foi desenvolvido por mim, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
 
-**Nome do Estudante:** Mateus Onival Araujo de Moraes
-
-**Data:** 14/06/2026
