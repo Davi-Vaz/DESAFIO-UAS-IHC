@@ -60,8 +60,6 @@ Com esse trabalho, percebi o quanto pequenos ajustes — como a escolha de cores
 
 ---
 
-## Declaração de Autoria
 
-Declaro que este trabalho foi desenvolvido por mim, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
 
 
