@@ -67,7 +67,7 @@ npm install -g typescript
 *Dica: Você também pode usar o `ts-node` para rodar diretamente sem compilar (`npm install -g ts-node` e depois `ts-node desafio.ts`).*
 
 ### Arquivos Entregues
-- `Desafio da UA 4.pdf`: Documentação técnica com a descrição do desafio.
+- `Desafio_da_UA_4_Davi.pdf`: Documentação técnica com a descrição do desafio.
 - `desafio.ts`: Código-fonte original em TypeScript.
 
 ---
@@ -78,10 +78,4 @@ Usar TypeScript para essa atividade foi bem bacana porque a tipagem deixa o cód
 
 ---
 
-## Declaração de Autoria
 
-Declaro que este trabalho foi desenvolvido por mim, respeitando as normas acadêmicas e de integridade estabelecidas pela instituição.
-
-**Nome do Estudante:** Mateus Onival Araujo de Moraes
-
-**Data:** 14/06/2026
